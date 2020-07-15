@@ -1,7 +1,5 @@
 # Power BI
 
-## Descripción
-
 ## ¿Qué es Power BI?
 Power BI es un servicio de análisis empresarial de Microsoft, su objetivo es proporcionar visualizaciones interactivas y capacidades de inteligencia empresarial con una interfaz lo suficientemente simple como para que los usuarios finales creen sus propios informes y paneles
 
