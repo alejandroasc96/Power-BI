@@ -58,6 +58,7 @@ Licenciamiento incluido con las ediciones Enterprise de SQL Server 2016 y superi
 ## ¿Cómo saber qué licencia tengo?
 La forma más rápida de ver qué tipos de licencia tenemos sería ingresando en la siguiente ruta con nuestra cuenta de trabajo o estudio de outlook [https://portal.office.com/account#subscriptions](https://portal.office.com/account#subscriptions)
 
+<<<<<<< HEAD
 ![foto_tipo_licencia](https://github.com/alejandroasc96/Power-BI/blob/master/images/tipo_licencia.png?raw=true)
 
 ## Compartir con usuarios que tienen Power BI
@@ -71,3 +72,8 @@ Si bien es un método gratuito, debes tener en cuenta algunas desventajas de est
 
 El informe podrá compartirse por web o correo electrónico con otras personas. También puede ser compartido por medio de redes sociales accediendo a un icono de la página. Es por esto que esta forma de compartir no es segura, y debe ser sólo usada cuando quiera compartir los datos en forma pública.
 Todas las páginas del informe estarán visibles. No es posible ocultar las páginas que no queremos que sean publicadas en la web.
+=======
+![foto_tipo_licencia](?raw=true)
+
+
+>>>>>>> f743053f2d56f06f3f40e84183f8fb5226f612c5
