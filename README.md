@@ -51,3 +51,9 @@ Licenciamiento incluido con las ediciones Enterprise de SQL Server 2016 y superi
 - Incluye Reportes Paginados
 - Requiere una versión especial de Power BI Desktop
 - La versión de Power BI Desktop para Report Server se actualiza cada 4 meses
+
+
+## ¿Cómo saber qué licencia tengo?
+La forma más rápida de ver qué tipos de licencia tenemos sería ingresando en la siguiente ruta con nuestra cuenta de trabajo o estudio de outlook [https://portal.office.com/account#subscriptions](https://portal.office.com/account#subscriptions)
+
+![foto_tipo_licencia](?raw=true)
