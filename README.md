@@ -4,6 +4,9 @@
 Power BI es un servicio de análisis empresarial de Microsoft, su objetivo es proporcionar visualizaciones interactivas y capacidades de inteligencia empresarial con una interfaz lo suficientemente simple como para que los usuarios finales creen sus propios informes y paneles
 
 ## Tipos de licencias
+
+Los tipos de licencias existentes vienen dadas según cómo vamos a consumir la información que creamos en Power BI
+
 ### Licensias de creación de contenido
 #### 1. Power BI FREE
 - Incluye 1 GB de almacenamiento en Modo Import.

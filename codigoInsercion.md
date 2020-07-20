@@ -4,11 +4,11 @@ De forma predeterminada, los usuarios deberán solicitar a un administrador de P
 
 Cuando un usuario intenta crear una nueva publicación en el código de incrustación web a través de la nueva apariencia o la interfaz de usuario convencional ...
 
-![Publicando web]()
+![Publicando web](https://github.com/alejandroasc96/Power-BI/blob/master/images/publicarWeb.png?raw=true)
 
 ... verán el siguiente cuadro de diálogo.
 
-![Erro publicando en web]()
+![Erro publicando en web](https://github.com/alejandroasc96/Power-BI/blob/master/images/publicarWebMensaje.PNG?raw=true)
 
 ## Solucionando error
 
