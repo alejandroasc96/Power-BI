@@ -37,7 +37,7 @@ Licenciamiento ideal para implementar a gran escala Power BI
 ### Licencias para publicar
 
 #### 4. Power BI Embedded
-Licenciamiento recomendado para integrar en aplicaciones personalizadas
+Licenciamiento recomendado para integrar en aplicaciones personalizadas [consultar precios](https://azure.microsoft.com/es-es/pricing/details/power-bi-embedded/)
 
 - Licenciamiento según requerimientos, más información en Precios de Power BI Embedded
 - Tiene un costo base mínimo a cubrir
