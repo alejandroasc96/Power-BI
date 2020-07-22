@@ -83,6 +83,7 @@ Cogeremos esta edición en el caso de:
 3.- Power BI Premium
 Cogeremos esta edición en el caso de:
     - Requerir de 100TB de almacenamiento
+    - Tamaño máximo de un conjunto de datos individual 10G
     - Ir escalando el rendimiento a medida que cambien los requisitos de análisis de la empresa
     - Poseer una gran cantidad de usuarios que hagan uso de la herramienta ( Power BI Premium no se paga licencia individual, sino que se paga un fee mensual que permite que una gran cantidad de sus usuarios utilicen Power BI para ver los informes)
     - Para randes empresas donde muchos usuarios necesitan editar y visualizar los datos e informes.
@@ -92,14 +93,13 @@ Cogeremos esta edición en el caso de:
     -  Insertar paneles, cuadros de mando e informes interactivos de Power BI en sus aplicaciones (APIS).
 
 
-## ¿Cómo saber qué licencia tengo?
-La forma más rápida de ver qué tipos de licencia tenemos sería ingresando en la siguiente ruta con nuestra cuenta de trabajo o estudio de outlook [https://portal.office.com/account#subscriptions](https://portal.office.com/account#subscriptions)
 
-![foto_tipo_licencia](https://github.com/alejandroasc96/Power-BI/blob/master/images/resumen_tipo_licencia.png?raw=true)
 
 
 ## Posibles de problemas
 
+- [¿Cómo saber qué licencia tengo?]()
+
 - [Activar código insercion para publicar en web](https://github.com/alejandroasc96/Power-BI/blob/master/codigoInsercion.md)
 
-- [Compartir en Power BI sin licencia PRO]()
+- [Compartir en Power BI sin licencia PRO](https://github.com/alejandroasc96/Power-BI/blob/master/compartirSinLicenciaPro.md)
