@@ -98,7 +98,7 @@ Cogeremos esta edición en el caso de:
 
 ## Posibles de problemas
 
-- [¿Cómo saber qué licencia tengo?]()
+- [¿Cómo saber qué licencia tengo?](https://github.com/alejandroasc96/Power-BI/blob/master/comoSaberQueLicenciaTengo.md)
 
 - [Activar código insercion para publicar en web](https://github.com/alejandroasc96/Power-BI/blob/master/codigoInsercion.md)
 
