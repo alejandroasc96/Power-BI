@@ -44,7 +44,7 @@ Licenciamiento recomendado para integrar en aplicaciones personalizadas [consult
 - Está basado en cantidad de recursos a utilizar y no requiere licencias PRO para visualizar
 - Para diseñar/modelar se requiere licencia PRO
 - Tiene limitantes respecto a las versiones de Power BI Free / PRO
-- No incluye acceso a móviles
+    - No incluye acceso a móviles
 
 #### 5. Power BI Report Server
 Licenciamiento incluido con las ediciones Enterprise de SQL Server 2016 y superiores
@@ -56,9 +56,40 @@ Licenciamiento incluido con las ediciones Enterprise de SQL Server 2016 y superi
 - No requiere licencias PRO para diseñar/modelar
 - Incluye Reportes Paginados
 - Requiere una versión especial de Power BI Desktop
-- La versión de Power BI Desktop para Report Server se actualiza cada 4 meses
+    - La versión de Power BI Desktop para Report Server se actualiza cada 4 meses
 
 [¿Power BI Embedded O Power BI Report Server?]()
+
+
+## ¿Qué tipo de lincencia escoger?
+
+La respuesta a esta consulta vienen dada según cómo vamos a consumir la información que creamos en Power BI quedándose el siguiente resumen.
+
+1.- Power BI(Free)
+Cogeremos esta edición en el caso de:
+    - Tener cuenta de Ofice 365 para poder hacer uso del portal [power bi](https://powerbi.microsoft.com/es-es/), el cual nos permitirá publicar lo infromes creados en nuestras aplicaciones web
+    - No tener problema en compartir de forma pública el informe creado
+    - Sin necesidad de compartir los informes dentro de un grupo de trabajo
+    - En caso de no tener el portal de porwer bi no se podrán crear informes dinámicos
+    - Imports de la base de datos de nos más de 1 GB
+
+2.- Power BI PRO
+Cogeremos esta edición en el caso de:
+    - No requerir más de 10GB de almacenamiento por usuario
+    - Querer compartir los informes dentro de un entorno de trabajo
+    - Para pequeñas y medianas empresas, sin elevados volúmenes de datos y donde se necesiten pocas licencias de uso.
+    - Querer incrustar los informaes en páginas web sin tener que poseer cuenta de microsoft Ofice 365
+
+3.- Power BI Premium
+Cogeremos esta edición en el caso de:
+    - Requerir de 100TB de almacenamiento
+    - Ir escalando el rendimiento a medida que cambien los requisitos de análisis de la empresa
+    - Poseer una gran cantidad de usuarios que hagan uso de la herramienta ( Power BI Premium no se paga licencia individual, sino que se paga un fee mensual que permite que una gran cantidad de sus usuarios utilicen Power BI para ver los informes)
+    - Para randes empresas donde muchos usuarios necesitan editar y visualizar los datos e informes.
+
+4.- Power BI Embedded
+Cogeremos esta edición en el caso de:
+    -  Insertar paneles, cuadros de mando e informes interactivos de Power BI en sus aplicaciones (APIS).
 
 
 ## ¿Cómo saber qué licencia tengo?
