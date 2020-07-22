@@ -14,14 +14,16 @@ Cuando un usuario intenta crear una nueva publicación en el código de incrusta
 
 >**NOTA** Para realizar las siguientes acciones usted debe ser administrador
 
-1. Vaya al servicio Power BI, powerbi.com
+1. Vaya al servicio Power BI, [powerbi.com](https://powerbi.microsoft.com/es-es/)
 
-2. Icono de engranaje en la parte superior derecha, haga clic en él
+2. Vaya al icono de engranaje en la parte superior derecha, haga clic en él y luego haga clic en Portal de administración
 
-3. Haga clic en Portal de administración
+![activando codigo insercion](https://github.com/alejandroasc96/Power-BI/blob/master/images/Habilitando_codigo_insercion.png?raw=true)
 
-4. Seleccione Configuración de inquilino (4o uno abajo)
+3. Seleccione Configuración de inquilino (4º apartado)
 
-5. En Exportar y compartir configuración, busque Publicar en La Web, expándalo
+4. Busque Publicar en La Web, expándalo y habilite "Permitir códigos nuevos y existentes
 
-6. Plételo
+![activando codigo insercion](https://github.com/alejandroasc96/Power-BI/blob/master/images/Habilitando_codigo_insercion1.png?raw=true)
+
+5. Aplique los cambios
