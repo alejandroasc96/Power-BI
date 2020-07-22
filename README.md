@@ -104,9 +104,6 @@ Cogeremos esta edición en el caso de:
     -  Insertar paneles, cuadros de mando e informes interactivos de Power BI en sus aplicaciones (APIS).
 
 
-
-
-
 ## Posibles de problemas <a name="id4"></a>
 
 - [¿Cómo saber qué licencia tengo?](https://github.com/alejandroasc96/Power-BI/blob/master/comoSaberQueLicenciaTengo.md)
